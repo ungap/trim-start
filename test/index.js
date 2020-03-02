@@ -7,5 +7,8 @@ var trimStart = require('../cjs');
 test();
 
 function test() {
-  console.assert(trimStart.call('\f\n\r\t\uFEFF\xA0  this') === 'this', 'all chars trimmed');
+  console.assert(
+    trimStart.call('\f\n\r\t\uFEFF\xA0  test ') === 'test ',
+    'works as expected'
+  );
 }
