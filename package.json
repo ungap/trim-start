@@ -1,5 +1,5 @@
 {
-  "name": "trim-start",
+  "name": "@ungap/trim-start",
   "version": "0.0.0",
   "description": "[![Build Status](https://travis-ci.com/ungap/trim-start.svg?branch=master)](https://travis-ci.com/ungap/trim-start) [![Coverage Status](https://coveralls.io/repos/github/ungap/trim-start/badge.svg?branch=master)](https://coveralls.io/github/ungap/trim-start?branch=master)",
   "main": "cjs/index.js",
