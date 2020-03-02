@@ -1,4 +1,4 @@
-# The [trimStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart) method for IE11
+# The [trimStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart) method for IE
 
 [![Build Status](https://travis-ci.com/ungap/trim-start.svg?branch=master)](https://travis-ci.com/ungap/trim-start) [![Coverage Status](https://coveralls.io/repos/github/ungap/trim-start/badge.svg?branch=master)](https://coveralls.io/github/ungap/trim-start?branch=master)
 

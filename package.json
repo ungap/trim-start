@@ -1,7 +1,7 @@
 {
   "name": "@ungap/trim-start",
   "version": "0.1.0",
-  "description": "[![Build Status](https://travis-ci.com/ungap/trim-start.svg?branch=master)](https://travis-ci.com/ungap/trim-start) [![Coverage Status](https://coveralls.io/repos/github/ungap/trim-start/badge.svg?branch=master)](https://coveralls.io/github/ungap/trim-start?branch=master)",
+  "description": "The trimStart method for IE",
   "main": "cjs/index.js",
   "scripts": {
     "build": "npm run cjs && npm run esm && npm run min && npm run test && npm run size",
@@ -12,8 +12,8 @@
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "test": "nyc node test/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["trimStart", "IE"],
+  "author": "Andrea Giammarchi",
   "license": "ISC",
   "devDependencies": {
     "coveralls": "^3.0.9",
